@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\code\opensource\PerformanceMonitor" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PerformanceMonitor" t="IncludeRecursive">
+        <e p="AutoLocker.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CpuUsageSampler.cs" t="Include" />
+        <e p="LocalFixedDiskUsageSampler.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net462" t="Include">
+              <e p="PerformanceMonitor.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PerformanceMonitor.csproj" t="IncludeRecursive" />
+        <e p="SystemStatsProvider.cs" t="Include" />
+        <e p="TimedSampler.cs" t="Include" />
+        <e p="WeightedAverage.cs" t="Include" />
+      </e>
+      <e p="PerformanceMonitor.sln" t="IncludeFlat" />
+      <e p="PerformanceMonitor.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net462" t="Include">
+              <e p="PerformanceMonitor.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PerformanceMonitor.Tests.csproj" t="IncludeRecursive" />
+        <e p="SystemMonitoring" t="Include">
+          <e p="CpuUsageSamplerTests.cs" t="Include" />
+          <e p="LocalDiskUsageSamplerTests.cs" t="Include" />
+          <e p="SystemStatsConfigBuilder.cs" t="Include" />
+          <e p="SystemStatsProviderTests.cs" t="Include" />
+          <e p="ThreadedTestHelpers.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="C:\Users\davyd.mccoll\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\davyd.mccoll\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\davyd.mccoll\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\davyd.mccoll\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_PerformanceMonitor.-354470423.00" t="ExcludeRecursive" />
+  </component>
+</project>
